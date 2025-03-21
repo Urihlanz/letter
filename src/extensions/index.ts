@@ -1,0 +1,35 @@
+"use client";
+
+export { StarterKit } from "@tiptap/starter-kit";
+export { Highlight } from "@tiptap/extension-highlight";
+export { CharacterCount } from "@tiptap/extension-character-count";
+export { Underline } from "@tiptap/extension-underline";
+export { Placeholder } from "@tiptap/extension-placeholder";
+export { TextAlign } from "@tiptap/extension-text-align";
+export { TextStyle } from "@tiptap/extension-text-style";
+export { FontFamily } from "@tiptap/extension-font-family";
+export { Typography } from "@tiptap/extension-typography";
+export { Color } from "@tiptap/extension-color";
+export { FocusClasses as Focus } from "@tiptap/extension-focus";
+export { Dropcursor } from "@tiptap/extension-dropcursor";
+export { Subscript } from "@tiptap/extension-subscript";
+export { Superscript } from "@tiptap/extension-superscript";
+export { TaskItem } from "@tiptap/extension-task-item";
+export { TaskList } from "@tiptap/extension-task-list";
+
+export { Selection } from "./Selection";
+export { Table, TableCell, TableHeader, TableRow } from "./Table";
+export { HorizontalRule } from "./HorizontalRule";
+export { Heading } from "./Heading";
+export { CodeBlock } from "./CodeBlock";
+export { Document } from "./Document";
+export { TrailingNode } from "./TrailingNode";
+export { SlashCommand } from "./SlashCommand";
+export { FontSize } from "./FontSize";
+;
+export { Figcaption } from "./Figcaption";
+export { BlockquoteFigure } from "./BlockquoteFigure";
+;
+;
+export { Link } from "./Link";
+export { Columns, Column } from "./MultiColumn";
