@@ -59,4 +59,5 @@ export const login = async (
   session.username = user.username;
 
   await session.save();
+  redirect("/");
 };
