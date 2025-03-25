@@ -15,7 +15,7 @@ Multifunctional text editor with authorization
 
 ## Define variables for `.env` or `.env.development`
 
-> Don't forget to do it. You can copy vars from `.env.local` and create new environment files.
+> Don't forget to do it. You can copy vars from `.env.development` and create new environment files.
 
 ### Build production
 
